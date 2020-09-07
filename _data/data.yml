@@ -16,6 +16,8 @@ sidebar:
     phone: 0031639607982
     github: AidanSully
     linkedin: aidan-sullivan
+    HackTheBox: aidansullivan
+    HTB: HTB.png
 
     languages:
       - idiom: Dutch
@@ -27,11 +29,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Working hard to be as good at coding as I can be. Been coding 
-      since 2018 with help from my school Codam Coding College.
+      Working hard to be as good at coding as I can be. My interests within coding are, but not limited to: 
+      - Ethical hacking (HackTheBox: script kiddie)
+      - Hardware programming
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Software Enigeer
+      university: Codam Coding Collge
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
