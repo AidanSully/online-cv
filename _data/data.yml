@@ -30,8 +30,9 @@ career-profile:
     title: Career Profile
     summary: |
       Working hard to be as good at coding as I can be. My interests within coding are, but not limited to: 
-      - Ethical hacking (HackTheBox: script kiddie)
-      - Hardware programming
+      - Ethical hacking
+      - Hardware/PLC programming
+      - Backend development
 education:
     - degree: Software Enigeer
       university: Codam Coding Collge
