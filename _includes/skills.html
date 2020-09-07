@@ -7,9 +7,9 @@
 	</h2>
 
 	<ul class="list-unstyled interests-list">
-		{%for skill in skills %}
+		{%for skill in skills.toolset %}
 		<li>
-			{{ skill.toolset.name }}
+			{{ skill.name }}
 			<!-- <span class="lang-desc">({{ language.level }})</span> -->
 		</li>
 		{% endfor %}
