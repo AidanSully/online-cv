@@ -6,7 +6,7 @@
 	  <i class="fas fa-circle fa-stack-2x"></i>
 	  <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
 	</span>
-	educations
+	Education
   </h2>
 
   {% for education in educations %}
@@ -15,11 +15,11 @@
 	<div class="meta">
 
 	  <div class="upper-row">
-		<h3 class="job-title">{{ education.role }}</h3>
+		<h3 class="job-title">{{ education.degree }}</h3>
 		<div class="time">{{ education.time }}</div>
 	  </div><!--//upper-row-->
 
-	  <div class="company">{{ education.company }}</div>
+	  <div class="company">{{ education.university }}</div>
 
 	</div><!--//meta-->
 
