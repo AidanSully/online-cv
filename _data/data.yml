@@ -56,8 +56,8 @@ experiences:
       company: AM-Flow/Borges
       details: |
         AM-Flow provides end to end digital manufacturing solutions.
-        Full time internship working on programming PLC's and the understanding of the fundamentals of PLC programming. I have learned intricacies of real-time programming, by working on developing and integrating applications and components into real-time systems.
-        Worked mainly on:
+        Full time internship working on programming PLC's and the understanding of the fundamentals of embedded programming. I have learned intricacies of real-time programming, by working on developing and integrating applications and components into real-time systems.
+        Main tasks:
         - Testing software used to test hardware (mainly PoE camera's)
         - Working on a highspeed OCR system which works in realtime with a PoE camera
         - Worked in C++ and Python
