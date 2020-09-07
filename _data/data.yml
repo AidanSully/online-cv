@@ -37,13 +37,11 @@ education:
       university: Codam Coding Collge
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Codam is a coding school in Amsterdam. Codam is a full peer to peer school, no teachers, no lessons. This school way of learning is through projects. Only place to ask questions is to my peers or to look it up on the internet. This is a great way to learn not only coding but problemsolving too.
+        Programming languages I have learned at Codam:
+          - C programming
+          - PHP
+          - Python
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
@@ -65,6 +63,8 @@ experiences:
         Worked mainly on:
         - Testing software used to test hardware (mainly PoE camera's)
         - Working on a highspeed OCR system which works in realtime with a PoE camera
+        - Worked in C++ and Python
+        - Worked a lot in unix systems setting up hardware
     - role: Kitchen Staff
       time: January 2014 - August 2019
       company: Ouderkerk aan de Amstel
@@ -124,23 +124,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C programming
+        # level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Python
+        # level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        # level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: UNIX
+        # level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Bash
+        # level: 80%
+      
+      - name: PHP
+        # level: 75%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
