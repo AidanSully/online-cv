@@ -2,21 +2,21 @@
 {% if skills %}
 <div class="skills-container container-block">
 
-  <h2 class="container-block-title">
-    Skills
-  </h2>
+	<h2 class="container-block-title">
+		Skills
+	</h2>
 
-  <ul class="list-unstyled interests-list">
-    {%for skill in skills %}
-    <li>
-      <h3 class="level-title">{{ skill.name }}</h3>
-        <div class="level-bar">
-          <div class="level-bar-inner" data-level="{{ skill.level }}"></div>
-        </div><!--//level-bar-->
-      <span class="lang-desc">({{ skill.level }})</span>
-    </li>
-    {% endfor %}
-  </ul>
+	<ul class="list-unstyled interests-list">
+		{%for skill in skills %}
+		<li>
+			{{ skill.name }}
+				<div class="level-bar">
+					<div class="level-bar-inner" data-level="{{ skill.level }}"></div>
+				</div><!--//level-bar-->
+			<span class="lang-desc">({{ skill.level }})</span>
+		</li>
+		{% endfor %}
+	</ul>
 
 </div><!--//interests-->
 {% endif %}
