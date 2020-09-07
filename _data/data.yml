@@ -43,6 +43,11 @@ education:
           - C programming
           - PHP
           - Python
+    - degree: Computer Science
+      university: Vrije Universiteit Amsterdam
+      time: Sep 2017 - Jun 2018
+      details: |
+        First year of Computer Science at university. Stopped after the first year to persue a software development career through Codam
     - degree: Havo, Joke Smit College
       university: Joke Smit Collge
       time: Sep 2013 - May 2014
