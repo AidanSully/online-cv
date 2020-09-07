@@ -34,15 +34,12 @@ career-profile:
       - Hardware/PLC programming
       - Backend development
 educations:
-    - degree: Software Enigeer
+    - degree: Software Engineer
       university: Codam Coding Collge
       time: Jan 2019 - present
       details: |
         Codam is a coding school in Amsterdam. Codam is a full peer to peer school, no teachers, no lessons. This school way of learning is through projects. Only place to ask questions is to my peers or to look it up on the internet. This is a great way to learn not only coding but problemsolving too.
-        Programming languages I have learned at Codam:
-          - C programming
-          - PHP
-          - Python
+        Programming languages I have learned at Codam are, C programming, Python and some PHP
     - degree: Computer Science
       university: Vrije Universiteit Amsterdam
       time: Sep 2017 - Jun 2018
