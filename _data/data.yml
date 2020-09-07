@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: aidansullivan.work@gmail.com
     phone: 0031639607982
-    linkedin: aidan-sullivan
     github: AidanSully
+    linkedin: aidan-sullivan
 
     languages:
       - idiom: Dutch
@@ -27,12 +27,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Working hard to be as good at coding as I can be. Been coding 
+      since 2018 with help from my school Codam Coding College.
 education:
     - degree: MSc in Computer Science
       university: University of London
