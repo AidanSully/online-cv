@@ -73,5 +73,14 @@
     </li>
     {% endif %}
 
+    {% if sidebar.HackTheBox %}
+    <li class="HackTheBox"><i class="fab fa-HackTheBox"></i>
+      <a href="https://www.hackthebox.eu/home/users/profile/383532" target="_blank">{{ sidebar.goodreads }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.HTB %}
+    <img class="HTB" src="{{ site.baseurl }}/assets/images/{{ sidebar.HTB }}" alt="HTB picture" />
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
