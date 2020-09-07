@@ -6,17 +6,21 @@
 		{{ skills.title }}
 	</h2>
 
-	<ul class="list-unstyled interests-list">
-		{%for skill in skills.toolset %}
-		<li>
-			{{ skill.name }}
-			<div class="level-bar">
-				<div class="level-bar-inner" data-level="{{ skill.level }}"></div>
-			</div><!--//level-bar-->
-			<!-- <span class="lang-desc">({{ language.level }})</span> -->
-		</li>
-		{% endfor %}
-	</ul>
+	<div class="skillset">
+		<ul class="list-unstyled interests-list">
+			{%for skill in skills.toolset %}
+			<div class="item">
+				<li>
+					{{ skill.name }}
+					<div class="level-bar">
+						<div class="level-bar-inner" data-level="{{ skill.level }}"></div>
+					</div><!--//level-bar-->
+					<!-- <span class="lang-desc">({{ language.level }})</span> -->
+				</li>
+			</div><!--//item-->
+			{% endfor %}
+		</ul>
+	</div><!--//skillset-->
 
 </div><!--//interests-->
 {% endif %}
