@@ -70,7 +70,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C programming
+      - name: C
         level: 100%
 
       - name: Python
