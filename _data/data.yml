@@ -16,8 +16,8 @@ sidebar:
     phone: 0031639607982
     github: AidanSully
     linkedin: aidan-sullivan
-    HackTheBox: aidansullivan
-    HTB: HTB.png
+    # HackTheBox: aidansullivan
+    # HTB: HTB.png
 
     languages:
       - idiom: Dutch
