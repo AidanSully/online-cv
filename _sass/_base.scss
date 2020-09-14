@@ -109,7 +109,7 @@ p {
     }
     .education-container {
         .item {
-            margin-bottom: 5px;
+            margin-bottom: 10px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -238,20 +238,20 @@ p {
 
 .skillset {
     .item {
-        margin-bottom: 15px;
+        margin-bottom: 5px;
         overflow: hidden;
     }
     .level-title {
-        font-size: 14px;
+        font-size: 10px;
         margin-top: 0;
-        margin-bottom: 12px;
+        margin-bottom: 5px;
     }
     .level-bar {
-        height: 12px;
+        height: 10px;
         background: $smoky-white;
     }
     .level-bar-inner {
-        height: 12px;
+        height: 10px;
         background: lighten($theme-color, 15%);
     }
 }
